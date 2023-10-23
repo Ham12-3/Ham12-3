@@ -53,7 +53,12 @@
 
 <h2 align='center'>⚡ ReadMe Stats ⚡ </h2>
 <br>
+
+
 [![Abdulhamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ham12-3)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br>
 
 <hr/>
 
