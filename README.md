@@ -48,11 +48,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Ham12-3)](https://git.io/streak-stats)
-</div>
 
-<br/><br/>
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Ham12-3)](https://git.io/streak-stats)
+
+
+
 <hr/>
 
 <h3 align="center">
