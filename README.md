@@ -43,6 +43,10 @@
 
 <br/>
 
+<hr>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ham12-3&theme=dark)](https://git.io/streak-stats)
+
 
 
 
