@@ -47,7 +47,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ham12-3&theme=dark)](https://git.io/streak-stats)
 
+![Abdulhamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ham12-3&show_icons=true&theme=radical&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ham12-3layout=compact&theme=radical&count_private=true)
 
 
 
