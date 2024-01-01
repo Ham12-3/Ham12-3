@@ -51,12 +51,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ham12-3&layout=compact&theme=radical&count_private=true)
 
-
+    
 
 
 <hr>
 
-
+<img height="250px" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Ham12-3&theme=orangeblack"/> 
 
 
 <h3 align="center">
