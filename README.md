@@ -59,6 +59,13 @@
 <img height="250px" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Ham12-3&theme=orangeblack"/> 
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ham12-3&theme=gruvbox)](https://github.com/rukundob451/github-profile-trophy)
+
+
+
+
+[![Abdulhamid Sonaike's github activity graph](https://activity-graph.herokuapp.com/graph?username=ham12-3&theme=react-dark)](https://github.com/ham12-3/github-readme-activity-graph)
+
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
