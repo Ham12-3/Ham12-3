@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ham12-3.Ham12-3" />
+
 <div align="center">
   
   ![Visitors](https://visitcount.itsvg.in/api?id=Ham12-3&label=Profile%20Views&color=1&pretty=false) [![wakatime](https://wakatime.com/badge/user/b8e39aba-c0ac-4d35-a6c9-bd0aa824e50e.svg?style=plastic&labelColor=16161A&color=7F5AF0)](https://wakatime.com/@b8e39aba-c0ac-4d35-a6c9-bd0aa824e50e)  
