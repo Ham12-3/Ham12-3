@@ -63,8 +63,7 @@
 
 <img height="250px" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Ham12-3&theme=orangeblack"/> 
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ham12-3&theme=gruvbox)](https://github.com/rukundob451/github-profile-trophy)
+[![Abdulhamid Sonaike's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ham12-3&hide_border=true&theme=high-contrast)](https://github.com/Ham12-3/github-readme-activity-graph)
 
 
 
