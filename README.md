@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Mobile apps and full stack web apps**
+ 🔭 I’m currently working on **full stack web apps and AWS cloud services**
  
  🌱 I’m currently learning **Tailwind, React Native Expo, MERN stack, Next.js, Python Django with PostgreSQL,**
 
