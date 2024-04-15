@@ -4,17 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Abdulhamid+Sonaike!;" />
 </h1>
 
-<h3 align="center">A passionate software developer in United Kingdom <sub>UK</sub> </h3>
+<h3 align="center">A passionate software architect in United Kingdom <sub>UK</sub> </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **full stack web apps and AWS cloud services**
+ 🔭 I’m currently working on **AWS cloud services, hybrid cloud services and multi cloud services**
  
- 🌱 I’m currently learning **Tailwind, React Native Expo, MERN stack, Next.js, Python Django with PostgreSQL,**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/Ham12-3/Ham12-3/issues)**
 
  ⚡ Fun fact **I love eating a lot**
  
@@ -37,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,gcp,azure,kubernetes,docker,mysql,postgresql,aws,gitlab,terraform" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,gcp,azure,kubernetes,docker,mysql,postgresql,aws,gitlab,terraform,ansible" />
 
 </div>
 
