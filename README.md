@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Abdulhamid+Sonaike!;" />
 </h1>
 
-<h3 align="center">A passionate software architect in United Kingdom <sub>UK</sub> </h3>
+<h3 align="center">A passionate full stack engineer in United Kingdom <sub>UK</sub> </h3>
 
 <br/>
 
