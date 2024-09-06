@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=gcp,azure,kubernetes,docker,typescript,javascript,nodejs,nextjs,expressjs,mongodb,redis" />
+    <img src="https://skillicons.dev/icons?i=gcp,azure,kubernetes,docker,typescript,javascript,nodejs,nextjs,expressjs,mongodb,redis,aws" />
 
 </div>
 
